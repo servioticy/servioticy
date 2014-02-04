@@ -1,0 +1,12 @@
+[submodule "datamodel"]
+	path = datamodel
+	url = https://github.com/servioticy/servioticy-datamodel.git
+[submodule "rest-client"]
+	path = rest-client
+	url = https://github.com/servioticy/servioticy-rest-client.git
+[submodule "dispatcher"]
+	path = dispatcher
+	url = https://github.com/servioticy/servioticy-dispatcher.git
+[submodule "queue-client"]
+	path = queue-client
+	url = https://github.com/servioticy/servioticy-queue-client.git
