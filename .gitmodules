@@ -13,3 +13,6 @@
 [submodule "servioticy-api-commons"]
 	path = servioticy-api-commons
 	url = git://github.com/servioticy/servioticy-api-commons
+[submodule "servioticy-api-public"]
+	path = servioticy-api-public
+	url = git://github.com/servioticy/servioticy-api-public
