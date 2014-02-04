@@ -16,3 +16,6 @@
 [submodule "servioticy-api-public"]
 	path = servioticy-api-public
 	url = git://github.com/servioticy/servioticy-api-public
+[submodule "servioticy-api-private"]
+	path = servioticy-api-private
+	url = git://github.com/servioticy/servioticy-api-private
