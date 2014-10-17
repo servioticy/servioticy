@@ -7,8 +7,13 @@ To build servIoTicy, you need to make sure that the submodules are updated and t
 It can be done with the following commands:
 
 ```
-git submodule foreach git pull origin master
+git clone <this repository url>
+cd servioticy
+git checkout master
+git pull
+git submodule update --init --recursive
 mvn -Dmaven.test.skip=true package
+cd ..
 ```
 
 For convenience, a "build.sh" script is provided to automatize this task.
